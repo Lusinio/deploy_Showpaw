@@ -1,0 +1,75 @@
+* {
+  /*overwrite these properties from HTML document*/
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* Variable declaration */
+
+:root {
+  --primaryColor: #af9a7d;
+  --mainWhite: #fff;
+  --offWhite: #f7f7f7;
+  --mainBlack: #222;
+  --mainGrey: #ececec;
+  --darkGrey: #cfcfcf;
+  --mainTransition: all 0.3s linear;
+  --mainSpacing: 3px;
+  --lightShadow: 2px 5px 3px 0px rgba(0, 0, 0, 0.5);
+  --darkShadow: 4px 10px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+
+/* globals */
+
+body {
+  /*overwrite and set these properties for the body tag(the main document)*/
+  /* padding-top: 66px; */
+  color: var(--mainBlack);
+  background: var(--mainWhite);
+  /* font-family: 'Ma Shan Zheng', cursive; */
+  line-height: 1.4;
+}
+
+h1 {
+  /*overwrite and set these properties for the h1 tag*/
+  font-size: 3em;
+  line-height: 1;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  /*overwrite and set these properties for the h2 tag*/
+  font-size: 2em;
+  margin-bottom: 0.75em;
+}
+
+h3 {
+  /*overwrite and set these properties for the h3 tag*/
+  font-size: 1.5em;
+  line-height: 1;
+  margin-bottom: 1em;
+}
+
+h4 {
+  /*overwrite and set these properties for the h4 tag*/
+  font-size: 1.2em;
+  line-height: 1.25;
+  margin-bottom: 1.25em;
+}
+
+h5 {
+  /*overwrite and set these properties for the h5 tag*/
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 1.5em;
+}
+
+h6 {
+  /*overwrite and set these properties for the h6 tag*/
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 1.5em;
+}

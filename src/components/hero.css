@@ -1,0 +1,20 @@
+/* envez de duplicate todas as proridades da class"defaultHero" para a class "roomsHero", eu só coloquei
+ele junto e depois em baixo eu sobreescrever alguns propriedades e ou add novos propriedades*/
+
+.defaultHero, .roomsHero, .header-services, .header-sponsors {
+  /* min-height: calc(100vh - 66px); */
+  min-height: calc(100vh);
+  background: url("../images/defaultBcg.jpg") center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* Aqui temos que adicionar a imagem do background para este componente */
+
+.roomsHero {
+  background-image: url("../images/header-bg.jpg");
+  min-height: 60vh;
+  margin: 0px;
+}

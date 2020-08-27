@@ -1,0 +1,64 @@
+          p {
+            margin: 0px!important
+          }
+          
+          .footerGrid {
+            display: grid;
+            margin: 0;
+            padding: 0;
+            background: #2a2c30;
+            grid-template-columns: 3fr 1fr 1fr 1fr;
+            grid-template-rows: 2fr 1fr;
+            grid-column-gap: 2em;
+            grid-template-areas: "footerLogo listMenu1 listMenu2 listMenu3" "copyrights copyrights copyrights copyrights ";
+          }
+          
+          .footerLogo {
+            grid-area: footerLogo;
+            color: white;
+            text-align: center;
+            padding: 20px
+          }
+          
+          .listMenu1 {
+            grid-area: listMenu1;
+            padding-top: 20px;
+          }
+          
+          .listMenu2 {
+            grid-area: listMenu2;
+            padding-top: 20px;
+          }
+          
+          .listMenu3 {
+            grid-area: listMenu3;
+            padding-top: 20px;
+          }
+          
+          .copyrights {
+            grid-area: copyrights;
+            background: white;
+            text-align: center;
+            padding: 20px;
+            margin-bottom: 0;
+          }
+          
+          .credits {
+            margin: 0;
+            padding-top: 0;
+          }
+          /* if the width of the viewport is < 600px styled like this */
+          
+          @media(max-width: 600px) {
+            .footerGrid {
+              text-align: "left";
+              grid-template-columns: 1fr;
+              grid-template-rows: auto auto;
+              grid-template-areas: "footerLogo" "listMenu1" "listMenu2" "listMenu3" "copyrights";
+              text-align: center;
+              /* grid-template-areas: "image name" "image position" "social description"; */
+              /* como nosso grid possui duas colunas, posicionamos a imagem ao lado do nome, social ao lado do position, description vai preencher as duas colunas
+    NB) se quisemos fazer a description fica na coluna mais a direita fizemos: ". description"  se for mais a esquerda fizemos "description  ." */
+              /* grid-template-areas: "image name" "social position " "description description"; */
+            }
+          }

@@ -1,0 +1,21 @@
+.site-section {
+  padding: 3em 0;
+}
+
+image {
+  position: relative;
+}
+
+@media (min-width: 768px) {
+  .site-section {
+    padding: 7em 0;
+  }
+}
+
+.site-section.site-section-sm {
+  padding: 4em 0;
+}
+
+.style1 {
+  background-image: url("../images/bg-masthead.jpg");
+}
