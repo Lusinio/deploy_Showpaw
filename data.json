@@ -1,0 +1,597 @@
+{
+"bal":[
+    {
+        "name":"GRACIA & ROODY & jrsem",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"JEUDI",
+        "date":"13",
+        "heure":"",
+        "ville":"OUANAMINTHE",
+        "admin":"",
+        "lieu":"1000 GDES",
+        "adresse":"PARADIS NIGHT CLUB",
+        "image":"img/shows/mass.jpeg" 
+    },
+    {
+        "name":"T-VICE",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"VENDREDI",
+        "date":"14",
+        "heure":"",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/vice.jpeg" 
+    },
+    {
+        "name":"K-NYWAY VS MAESTRO",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"VENDREDI",
+        "date":"14",
+        "heure":"",
+        "ville":"PETIT GOAVE",
+        "admin":"",
+        "lieu":"750 GDES",
+        "adresse":"LOUCO NIGHT CLUB",
+        "image":"img/shows/ansy.jpeg" 
+    },
+    {
+        "name":"MASS KONPA",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"15",
+        "heure":"14h00",
+        "ville":" SAINT MARC",
+        "admin":"",
+        "lieu":"1000 GDES",
+        "adresse":"CLUB 2000 DISCO",
+        "image":"img/shows/mass_konpa.jpeg" 
+    },
+    {
+        "name":"FLAV GABEL",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"15",
+        "heure":"20h00",
+        "ville":"",
+        "admin":"www.flavbirthday.com",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/flav.jpeg" 
+    },
+    {
+        "name":"KREYOLLA & RUTSHELLE",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"15",
+        "heure":"",
+        "ville":"PETIT GOAVE",
+        "admin":"",
+        "lieu":"1000 GDES ",
+        "adresse":"LAMBI DE PETIT GOAVE",
+        "image":"img/shows/kreyolla.jpeg" 
+    },
+    {
+        "name":"MAESTRO & TONYMIX",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"15",
+        "heure":"18h00",
+        "ville":"CAYES",
+        "admin":"",
+        "lieu":"ADM 1000 GDES ",
+        "adresse":"CLUB BACKYARD",
+        "image":"img/shows/maestro1.jpeg"   
+    },
+    
+    {
+        "name":"TROPICANA D'HAITI",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"15",
+        "heure":"",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/tropic.jpeg"   
+    },
+
+    {
+        "name":"KLASS",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"DIMANCHE",
+        "date":"16",
+        "heure":"",
+        "ville":"",
+        "admin":"$19",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/klass.jpeg" 
+    },
+
+    {
+        "name":"D'ROYAL & K-NIWAY",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"vendredi",
+        "date":"21",
+        "heure":"20h00",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/kniway.jpeg" 
+        
+        
+    },
+    {
+        "name":"KREYOLA & ROODY",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"vendredi",
+        "date":"21",
+        "heure":"",
+        "ville":"",
+        "admin":"",
+        "lieu":"1000 Gdes",
+        "adresse":"ESQUINA LATINA",
+        "image":"img/shows/tjoe.jpeg" 
+        
+        
+    },
+    {
+        "name":"DISSIP",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"22",
+        "heure":"",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/a.jpeg" 
+        
+        
+    },
+    {
+        "name":"TABOU COMBO",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"DIMANCHE",
+        "date":"23",
+        "heure":"20h00",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/tabou.jpeg" 
+        
+        
+    },
+
+    {
+        "name":"KATEL MIZIK",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"DIMANCHE",
+        "date":"23",
+        "heure":"",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/katel.jpeg" 
+        
+        
+    },  
+
+    {
+        "name":"NYCE",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"29",
+        "heure":"",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/nyce.jpeg" 
+        
+        
+    },
+    
+    {
+        "name":"CHOUBOU",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"29",
+        "heure":"21h00",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/choubou.jpeg" 
+        
+        
+    },
+    {
+        "name":"KAI",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"29",
+        "heure":"16h00",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/kai.jpeg"  
+    },
+
+    {
+        "name":"ENPOSIB",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"29",
+        "heure":"20H30",
+        "ville":"PETION VILLE",
+        "admin":"",
+        "lieu":"ADMISSION 37520032",
+        "adresse":"RITZ KINAM II",
+        "image":"img/shows/enposib3.jpeg"  
+    },
+
+    
+    {
+        "name":"RYLAX",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"DIMANCHE",
+        "date":"30",
+        "heure":"",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/rylax.jpeg" 
+        
+        
+    },
+    {
+        "name":"DRO & YANI",
+        "annee":"2020",
+        "moi":"SEPTEMBRE",
+        "jour":"DIMANCHE",
+        "date":"20",
+        "heure":"",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"GET YOUR TICKET NOW!",
+        "image":"img/shows/dro.jpeg" 
+        
+        
+    }
+],
+"rapDj":[
+    {
+        "name":"BAKY",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"VENDREDI",
+        "date":"14",
+        "heure":"19h00",
+        "ville":"OUANAMINTHE",
+        "admin":"",
+        "lieu":"ADM 500GDES",
+        "adresse":"PARADIS NIGHT CLUB",
+        "image":"img/shows/bak.jpeg" 
+    },
+    {
+        "name":"TONYMIX",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"VENDREDI",
+        "date":"14",
+        "heure":"20h00",
+        "ville":"CAP HAITIEN",
+        "admin":"",
+        "lieu":"ADM 1000 GDES ",
+        "adresse":"LAKAY BAR RESTAURANT",
+        "image":"img/shows/mix.jpeg" 
+    },
+    {
+        "name":"BAKY & IZOLAN",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"15",
+        "heure":"20h00",
+        "ville":"CAP HAITIEN",
+        "admin":"",
+        "lieu":"ADM 600GDES",
+        "adresse":"GRAN LAKOU, RUE 24 BOULVARD",
+        "image":"img/shows/izo.jpeg" 
+    },
+    {
+        "name":"IZOLAN & KOLONEL FREEZ",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"DIMANCHE",
+        "ville":"HINCHE",
+        "date":"16",
+        "heure":"",
+        "admin":"",
+        "lieu":"ADM 750 GDES",
+        "adresse":"",
+        "image":"img/shows/izolan1.jpeg" 
+    },
+    {
+        "name":"TONYMIX",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"DIMANCHE",
+        "ville":"PORT AU PRINCE",
+        "date":"16",
+        "heure":"",
+        "admin":"",
+        "lieu":"ADM $10",
+        "adresse":"GREEN BAR. 2,FRAGNEAU-VILLE,DELMAS 75",
+        "image":"img/shows/ton.jpeg" 
+    },
+    {
+        "name":"IZOLAN",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"DIMANCHE",
+        "ville":"",
+        "date":"16",
+        "heure":"",
+        "admin":"",
+        "lieu":"ADM 350 GDES",
+        "adresse":"",
+        "image":"img/shows/izolan2.jpeg" 
+    },
+    {
+        "name":"NADIA FAUBERT",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"JEUDI",
+        "ville":"",
+        "date":"20",
+        "heure":"20h00",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/femelle.jpeg" 
+    },
+
+    {
+        "name":"TONYMIX",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"VENDREDI",
+        "ville":"MIRBALAIS",
+        "date":"21",
+        "heure":"",
+        "admin":"",
+        "lieu":"ADM 400 GDES ",
+        "adresse":"LE RELAIS NIGHT CLUB",
+        "image":"img/shows/izolan.jpeg" 
+    },
+    {
+        "name":"ANDYBEATZ | IZOLAN",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"VENDREDI",
+        "ville":"CX DES BOUCQUETS",
+        "date":"21",
+        "heure":"16h00",
+        "admin":"",
+        "lieu":"ADM 300 GDES",
+        "adresse":"PARC PIERRE LOUIS",
+        "image":"img/shows/i.jpeg" 
+    },
+    {
+        "name":"IZOLAN",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "ville":"",
+        "date":"22",
+        "heure":"",
+        "admin":"",
+        "lieu":"ADMISSION X GDES",
+        "adresse":"MARTHA BEACH",
+        "image":"img/shows/izolan.jpeg" 
+    },
+    {
+        "name":"BOB CAILLOUX",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"SAMEDI",
+        "date":"22",
+        "heure":"20h00",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/bob.jpeg" 
+    },
+
+
+    {
+        "name":"WENDY",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"DIMANCHE",
+        "date":"23",
+        "heure":"20h00",
+        "ville":"",
+        "admin":"",
+        "lieu":"LIVE CONCERT",
+        "adresse":"",
+        "image":"img/shows/wendy.jpg" 
+    },
+
+    {
+        "name":"K-DILAK",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"DIMANCHE",
+        "date":"23",
+        "heure":"18h00",
+        "ville":"",
+        "admin":"",
+        "lieu":"400 Gdes",
+        "adresse":"COQUILLAGE NIGHTCLUB,ANBA BOUK",
+        "image":"img/shows/kdi.jpeg" 
+    },
+    
+    {
+        "name":"KOLONEL FREEZ",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"JEUDI",
+        "date":"27",
+        "ville":"LEOGANE",
+        "heure":"16h00",
+        "admin":"",
+        "lieu":"ADM 250 GDES",
+        "adresse":"DEYE DO PAK GERARD CHRISTOPHE",
+        "image":"img/shows/kolo.jpeg" 
+    },
+    {
+        "name":"MECHANS-T",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"VENDREDI",
+        "date":"28",
+        "ville":"LEOGANE",
+        "heure":"20h00",
+        "admin":"",
+        "lieu":"ADMISSION X GDES",
+        "adresse":"",
+        "image":"img/shows/mechanste.jpeg" 
+    },
+    {
+        "name":"KOLONEL FREEZ...",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"VENDREDI",
+        "date":"28",
+        "ville":"",
+        "heure":"20h00",
+        "admin":"",
+        "lieu":"ADM 250 GDES",
+        "adresse":"COLLEGE LE PHYLOSOPHE",
+        "image":"img/shows/f.jpeg" 
+    }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+     
+],
+"festival":[
+    {
+        "name":"DOUS MAKOS FEST",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"DIMANCHE",
+        "date":"16",
+        "ville":"",
+        "heure":"",
+        "admin":"",
+        "lieu":"LIVE PERFORMANCE",
+        "adresse":"",
+        "image":"img/shows/dous.jpeg" 
+    }
+
+],
+"comedie":[
+    {
+        "name":"JesifRA",
+        "annee":"2020",
+        "moi":"",
+        "jour":"Samedi",
+        "date":"",
+        "heure":"15h00",
+        "admin":"",
+        "lieu":"",
+        "adresse":"",
+        "image":"img/shows/1.jpg" 
+    }
+
+],
+"foire":[
+    {
+        "name":"Du livre",
+        "annee":"2020",
+        "moi":"Octobre",
+        "jour":"Samedi",
+        "date":"03",
+        "heure":"15h00",
+        "admin":"250",
+        "lieu":"Junbala",
+        "adresse":"Route frere, petion-ville",
+        "image":"img/shows/1.jpg" 
+    }
+
+],
+"seminaire":[
+    {
+        "name":"PANEL JEUNESSE",
+        "annee":"2020",
+        "moi":"AOUT",
+        "jour":"MERCREDI",
+        "date":"12",
+        "ville":"LIVE",
+        "heure":"18h00",
+        "admin":"",
+        "lieu":"JEUNESSE HAITIENNE SOIF DE SAVOIR,SOIF D'AGIR",
+        "adresse":"",
+        "image":"img/shows/seminaire.jpeg" 
+    },
+    {
+        "name":"YES! YES! YES! ",
+        "annee":"2020",
+        "moi":"SEPTEMBRE",
+        "jour":"MARDI-JEUDI",
+        "date":"02-03",
+        "ville":"BUSINESS CONFERENCE",
+        "heure":"18h00",
+        "admin":"",
+        "lieu":"LIVE ON FACEBOOK",
+        "adresse":"PRIVATE GROUP",
+        "image":"img/shows/conf.jpeg" 
+    }
+
+]
+
+
+}
